@@ -20,6 +20,10 @@ Nosso time está em constante evolução buscando sempre trabalhar com bleeding 
     <img src="./assets/grafana.png" width="128" />
 </div>
 
+-------
+
 https://jobs.enfaselabs.com.br/
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v7etHiIFNW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-------
+
+[![Ênfase Labs Vídeo](https://img.youtube.com/vi/v7etHiIFNW4/0.jpg)](https://www.youtube.com/watch?v=v7etHiIFNW4)
