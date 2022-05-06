@@ -8,8 +8,4 @@ Nosso time está em constante evolução buscando sempre trabalhar com bleeding 
 
 -------
 
-https://jobs.enfaselabs.com.br/
-
--------
-
 [![Ênfase Labs Vídeo](https://img.youtube.com/vi/v7etHiIFNW4/0.jpg)](https://www.youtube.com/watch?v=v7etHiIFNW4)
